@@ -24,7 +24,7 @@ This sample script does the following (in details):
 
 This script is provided as a sample for you to customize based on your own needs. 
 
-It makes heavy usage of vca-cli (https://github.com/vmware/vca-cli). 
+It makes heavy usage of [vca-cli](https://github.com/vmware/vca-cli). 
 
 If everything goes well, this sample allows you to ssh into the public IP (as reported) of the VM and start using Docker on a Photon OS host. 
 At the time of this writing, Photon OS Technical Preview 2 is the latest version available. 
